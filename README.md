@@ -2,6 +2,10 @@ Hello!
 
 This is a Python collection of examples, LeetCode solutions I've solved, etc.
 
+Current repositories:
+
+https://github.com/baseballcoder1/LeetCode
+
 I am available for Python work at:
 
 https://fiverr.com/baseballcoder
