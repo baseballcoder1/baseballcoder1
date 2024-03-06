@@ -5,6 +5,7 @@ This is a Python collection of examples, LeetCode solutions I've solved, etc.
 Current repositories:
 
 https://github.com/baseballcoder1/LeetCode
+https://github.com/baseballcoder1/fun
 
 I am available for Python work at:
 
